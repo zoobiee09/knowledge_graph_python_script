@@ -1,0 +1,6 @@
+networkx>=3.4
+matplotlib
+groq
+neo4j
+ipykernel
+python-dotenv
